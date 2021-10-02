@@ -9,7 +9,7 @@ import java.util.List;
 
 public class ProductsPage {
     private final WebDriver driver;
-    private String productsURL ="https://www.aspiration.com/our-products";
+    private final String productsURL ="https://www.aspiration.com/our-products";
 
     @FindBy(css = ".spend-save-plans h1")
     private WebElement title;

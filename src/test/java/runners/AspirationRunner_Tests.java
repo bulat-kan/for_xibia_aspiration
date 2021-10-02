@@ -18,5 +18,5 @@ import org.junit.runner.RunWith;
         glue = {"steps"},
         dryRun = false
 )
-public class Runner {
+public class AspirationRunner_Tests {
 }
