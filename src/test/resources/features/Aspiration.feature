@@ -1,3 +1,4 @@
+@InteractingWithProducts
 Feature: Interacting with products on https://www.aspiration.com/
   Verify that as a user, they can view our products,choose products, see pricing
 

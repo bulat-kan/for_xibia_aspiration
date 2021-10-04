@@ -16,7 +16,8 @@ import org.junit.runner.RunWith;
                 "src/test/resources/features/"
         },
         glue = {"steps"},
+        tags = "@InteractingWithProducts",
         dryRun = false
 )
-public class AspirationRunner_Tests {
+public class TestRunner {
 }
